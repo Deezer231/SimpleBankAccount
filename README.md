@@ -8,7 +8,7 @@ A small Java file I made to mess around with how a basic bank account system mig
 
 -Print out the account details
 
-*I did this as a lil side thing to help myself understand Java classes, constructors and methods.
+##I did this as a lil side thing to help myself understand Java classes, constructors and methods.
 
 This program allows you to:
 
